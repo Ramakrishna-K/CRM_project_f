@@ -14,7 +14,7 @@ const ChatWindow = () => {
   const [messages, setMessages] = useState([
     {
       role: "assistant",
-      text: "👋 Hello! Tell me about today's HCP interaction. I'll extract the details and automatically fill the interaction form.",
+      text: " Hello! Tell me about today's HCP interaction. I'll extract the details and automatically fill the interaction form.",
     },
   ]);
 
