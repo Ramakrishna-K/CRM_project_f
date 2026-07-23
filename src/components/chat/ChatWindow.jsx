@@ -166,7 +166,7 @@ ${data.follow_up || "None"}
 ${data.summary || "None"}
 
 
-➡️ Next Action:
+ Next Action:
 ${data.next_action || "None"}
 
 
