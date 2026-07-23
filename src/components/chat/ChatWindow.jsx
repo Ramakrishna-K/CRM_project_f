@@ -99,7 +99,7 @@ const ChatWindow = () => {
         role: "assistant",
 
         text: `
-✅ Interaction Successfully
+ Interaction Successfully
 
 
  Doctor Name:
