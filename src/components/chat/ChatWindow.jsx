@@ -194,7 +194,7 @@ ${data.next_action || "None"}
         role: "assistant",
 
         text:
-          "❌ Failed to connect to the AI backend.",
+          " Failed to connect to the AI backend.",
 
       };
 
@@ -269,4 +269,3 @@ export default ChatWindow;
 
 
 
-// ✅ The interaction form has been auto-filled.
