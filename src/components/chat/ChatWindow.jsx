@@ -102,23 +102,23 @@ const ChatWindow = () => {
 ✅ Interaction Successfully
 
 
-👨‍⚕️ Doctor:
+ Doctor Name:
 ${data.hcp_name || "Not Found"}
 
 
-📌 Interaction Type:
+ Interaction Type:
 ${data.interaction_type || "Meeting"}
 
 
-📅 Date:
+ Date:
 ${data.date || "Not Available"}
 
 
-⏰ Time:
+ Time:
 ${data.time || "Not Available"}
 
 
-👥 Attendees:
+ Attendees:
 ${
   data.attendees?.length
     ? data.attendees.join(", ")
@@ -126,7 +126,7 @@ ${
 }
 
 
-💊 Topics:
+ Topics:
 ${
   data.topics?.length
     ? data.topics.join(", ")
@@ -134,7 +134,7 @@ ${
 }
 
 
-📄 Materials:
+ Materials:
 ${
   data.materials?.length
     ? data.materials.join(", ")
@@ -142,7 +142,7 @@ ${
 }
 
 
-🧪 Samples:
+ Samples:
 ${
   data.samples?.length
     ? data.samples.join(", ")
