@@ -158,11 +158,11 @@ ${data.sentiment || "Neutral"}
 ${data.outcomes || "None"}
 
 
-📅 Follow Up:
+ Follow Up:
 ${data.follow_up || "None"}
 
 
-📝 Summary:
+ Summary:
 ${data.summary || "None"}
 
 
