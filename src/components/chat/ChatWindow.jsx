@@ -150,11 +150,11 @@ ${
 }
 
 
-😊 Sentiment:
+ Sentiment:
 ${data.sentiment || "Neutral"}
 
 
-🎯 Outcomes:
+ Outcomes:
 ${data.outcomes || "None"}
 
 
