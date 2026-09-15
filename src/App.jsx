@@ -5,7 +5,6 @@ import Sidebar from "./components/layout/Sidebar";
 
 import Dashboard from "./pages/Dashboard";
 import LogInteraction from "./pages/LogInteraction";
-
 function App() {
   return (
     <BrowserRouter>
